@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **MERN Stack Development**
 
-- 💞️ I’m looking to collaborate with people who are working in **native and web development**
+- 💞️ I’m looking to collaborate with people who are working in **React Native and web development**
 
 - 📫 How to reach me **konarkdave00@gmail.com**
 
