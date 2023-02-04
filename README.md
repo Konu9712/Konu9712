@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Konu9712</h1>
+<h1 align="center">Hi 👋, I'm Konark</h1>
 - 🔭 I’m currently working on a **Wallet App**
 
 - 🌱 I’m currently trying to learn **React**
