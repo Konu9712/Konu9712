@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate with people who are working in **React Native and Web Development**
 
-- 📫 How to reach me **konarkdave00@gmail.com**
+- 📫 How to reach me **konarkdave9712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
